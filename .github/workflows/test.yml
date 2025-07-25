@@ -46,4 +46,3 @@ jobs:
     # 使用 Python 模块方式运行 pytest
     - name: Run tests
       run: python -m pytest pdf-report-checker/tests/
-    
