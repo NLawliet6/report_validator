@@ -1,0 +1,28 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest 缓存
+.pytest_cache/
+.mypy_cache/
+
+# 环境/依赖
+venv/
+env/
+*.env
+
+# 上传文件
+uploads/
+
+# IDE 文件
+.vscode/
+.idea/
+
+# 测试覆盖报告
+.coverage
+htmlcov/
+
+# 临时文件
+*.tmp
+*.log
